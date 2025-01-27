@@ -158,6 +158,8 @@
     <ClInclude Include="clsScreen.h" />
     <ClInclude Include="clsUpdateClientScreen.h" />
     <ClInclude Include="ShowLogsScreen.h" />
+    <ClInclude Include="String.h" />
+    <ClInclude Include="Utils.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Clients.txt" />

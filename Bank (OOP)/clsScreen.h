@@ -1,7 +1,5 @@
 #pragma once
-#include "D:\WEB\Abo-hadHoud.RoadMap\Bank (OOP)\Bank (OOP)\String.h"
 #include "IputValidation.h"
-#include "D:\WEB\Abo-hadHoud.RoadMap\Bank (OOP)\Bank (OOP)\Utils.h"
 #include <iomanip>
 #include <iostream>
 #include "GlobalUser.h"
